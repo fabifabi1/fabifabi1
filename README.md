@@ -1,0 +1,5 @@
+- # SOBRE MIM
+-  👋 oi eu sou a Fabiola
+- 👀 estou interesessado em aprender javaScript
+- 🌱 estou interressado em aprender novas linguagens
+- 📫 meu contato [email] (fabiola.rodrigues@escola.pr.gov.br)
